@@ -9,7 +9,6 @@
 #include "HelperFunctions.h"
 #include "MenuClasses.h"
 
-//Karstie taustiņi
 bool active = true;
 
 int main() {	
@@ -29,7 +28,6 @@ int main() {
 	submenu->AddItem(MenuItem("Item2", [](){}));
 	submenu->AddItem(MenuItem("Close", [&submenu](){ submenu->Close(true); }));
 
-	//Handlo keyboard shortcutus.
 	int input;	
 	while( active ) {
 		test->Draw(); 
