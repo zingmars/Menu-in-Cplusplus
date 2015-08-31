@@ -11,6 +11,6 @@ moving the cursor (found in HelperFunctions.cpp). As far as the code goes though
 (comments etc.) The class' function names _SHOULD_ be enough to understand what a specific function does. Crappy, I know.
 
 I'm putting this up to perhaps helps someone in the future who has similar coursework. Of course I advise to only use this
-as a reference, but hey.
+as a reference (sure will beat trying to understand the code that I haven't commented), but hey, you're the boss.
  
 Code licensed under Beerware license. Go nuts with it.
